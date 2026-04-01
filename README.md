@@ -6,3 +6,13 @@ Hola mundo!
 > ### DIAGRAMA DE GANTT
 
 https://mermaid.ai/open-source/syntax/gantt.html
+
+```
+gantt
+    dateFormat HH:mm
+    axisFormat %H:%M
+    Initial vert : vert, v1, 17:30, 2m
+    Task A : 3m
+    Task B : 8m
+    Final vert : vert, v2, 17:58, 4m
+```
