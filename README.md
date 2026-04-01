@@ -6,7 +6,6 @@ Hola mundo!
 > ### DIAGRAMA DE GANTT
 
 ```mermaid
-gantt
     title Project Timeline: Aug 2025 - Jan 2026
     dateFormat  YYYY-MM-DD
     axisFormat  %b %d
