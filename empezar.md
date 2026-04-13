@@ -58,7 +58,7 @@ docker restart mc-server
 ```
 
 Y PORFIN ESTAMOS DENTRO!!!!!!!!!!!!!
-
+https://youtu.beFxr7oufrTLM
 
 
 
