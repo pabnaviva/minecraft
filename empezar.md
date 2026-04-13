@@ -58,7 +58,9 @@ docker restart mc-server
 ```
 
 Y PORFIN ESTAMOS DENTRO!!!!!!!!!!!!!
-https://youtu.beFxr7oufrTLM
+## 🎥 Demo del servidor Minecraft
+
+[![Ver video](https://img.youtube.com/vi/Fxr7oufrTLM/0.jpg)](https://youtu.be/Fxr7oufrTLM)
 
 
 
