@@ -41,7 +41,7 @@ gantt
     section Fase 4: Documentación
         Instalación Powerpoint                              :08-04-2026, 7d
         Impresion del documento final Word                  :08-04-2026, 7d
-        Artefactos
+        Artefactos                 :08-04-2026, 7d
             Diagrama de Red                                 :08-04-2026, 7d
             Diagrama de Gantt                               :08-04-2026, 7d
             Esquema de servidores Minecraft                 :08-04-2026, 7d
