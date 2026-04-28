@@ -22,12 +22,13 @@ https://mermaid.ai/open-source/syntax/gantt.html
 gantt
     title Diagrama de Gantt
     dateFormat DD-MM-YYYY
-    section Fase 1
-        Tarea 1                                        :a1, 01-04-2026, 7d
-        Subtareas Tarea 1                              :after 01-04-2026, 1d
-        Tarea 2                                        :after a1, 7d
-    section Fase 2
-        Instalación Kubernetes                         :01-04-2026, 7d
-        Subtareas Configuración                        :01-04-2026, 1d
-        Subtareas Configuración Mi primer Pod          :01-04-2026, 1d
+    section Fase 1: Planificación
+        Tarea 1: Diagrama de gantt                     :01-04-2026, 7d
+        Subtareas Minecraft server                     :01-04-2026, 1d
+        Subtareas mermaid                              :01-04-2026, 1d
+    section Fase 2: Implementación
+        Instalación Ubuntu Server 24.06                                   :01-04-2026, 7d
+        Instalación Kubernetes                                            :01-04-2026, 7d
+        Subtareas primera confuiguración con apuntes                      :01-04-2026, 7d
+        Subtareas segundas configuración mi primer minecraft Server       :01-04-2026, 7d
 ```
