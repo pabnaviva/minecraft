@@ -23,11 +23,11 @@ gantt
     title Diagrama de Gantt
     dateFormat DD-MM-YYYY
     section Fase 1
-        Tarea 1          :a1, 01-04-2026, 7d
-        Subtareas Tarea 1:after 01-04-2026, 1d
-        Tarea 2          :after a1, 7d
+        Tarea 1                                        :a1, 01-04-2026, 7d
+        Subtareas Tarea 1                              :after 01-04-2026, 1d
+        Tarea 2                                        :after a1, 7d
     section Fase 2
-        Instalación Kubernetes          :28-04-2026, 7d
-        Subtareas Configuración            :29-04-2026, 1d
-        Subtareas Configuración Mi primer Pod          :29-04-2026, 1d
+        Instalación Kubernetes                         :01-04-2026, 7d
+        Subtareas Configuración                        :01-04-2026, 1d
+        Subtareas Configuración Mi primer Pod          :01-04-2026, 1d
 ```
