@@ -23,12 +23,12 @@ gantt
     title Diagrama de Gantt
     dateFormat DD-MM-YYYY
     section Fase 1: Planificación
-        Tarea 1: Diagrama de gantt                     :01-04-2026, 7d
-        Subtareas Minecraft server                     :01-04-2026, 1d
-        Subtareas mermaid                              :01-04-2026, 1d
+        Tarea 1 Diagrama de gantt                     :01-04-2026, 7d
+        Subtareas Minecraft server                     :01-04-2026, 7d
+        Subtareas mermaid                              :01-04-2026, 7d
     section Fase 2: Implementación
-        Instalación Ubuntu Server 24.06                                   :01-04-2026, 7d
-        Instalación Kubernetes                                            :01-04-2026, 7d
-        Subtareas primera confuiguración con apuntes                      :01-04-2026, 7d
-        Subtareas segundas configuración mi primer minecraft Server       :01-04-2026, 7d
+        Instalación Ubuntu Server 24.06                                   :08-04-2026, 7d
+        Instalación Kubernetes                                            :08-04-2026, 7d
+        Subtareas primera confuiguración con apuntes                      :08-04-2026, 7d
+        Subtareas segundas configuración mi primer minecraft Server       :08-04-2026, 7d
 ```
