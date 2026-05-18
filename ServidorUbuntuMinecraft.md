@@ -202,7 +202,8 @@ Buscamos la IP local de Ubuntu.
 192.168.1.150
 ```
 
-<img width="1400" height="600" alt="image" src="AQUI_TU_CAPTURA_IP" />
+<img width="1237" height="301" alt="image" src="https://github.com/user-attachments/assets/fe8a35ee-003a-4a57-be46-925ec7b1dcf3" />
+
 
 ---
 
@@ -216,7 +217,8 @@ La dirección utilizada será:
 192.168.1.150:30007
 ```
 
-<img width="900" height="500" alt="image" src="AQUI_TU_CAPTURA_MULTIPLAYER" />
+<img width="932" height="567" alt="image" src="https://github.com/user-attachments/assets/53d2b95b-8eb6-4de2-bb6c-5f4aa48a80f9" />
+
 
 ---
 
@@ -224,7 +226,8 @@ La dirección utilizada será:
 
 Una vez conectado correctamente vemos que el servidor funciona perfectamente.
 
-<img width="1200" height="600" alt="image" src="AQUI_TU_CAPTURA_DENTRO_SERVIDOR" />
+<img width="926" height="567" alt="image" src="https://github.com/user-attachments/assets/4def4900-c020-4356-9646-b5735dd8c9a4" />
+
 
 ---
 
