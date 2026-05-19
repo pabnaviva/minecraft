@@ -172,7 +172,8 @@ sudo k3s kubectl get svc -n monitoring
 monitoring-grafana   NodePort   ...   80:30030/TCP
 ```
 
-<img width="1400" height="350" alt="image" src="AQUI_CAPTURA_GRAFANA_NODEPORT" />
+<img width="1466" height="251" alt="image" src="https://github.com/user-attachments/assets/7b753ff4-70be-4188-b03d-53f0fa1afd83" />
+
 
 ---
 
