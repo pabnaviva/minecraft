@@ -105,7 +105,7 @@ helm repo add prometheus-community https://prometheus-community.github.io/helm-c
 helm repo update
 ```
 
-<img width="1200" height="300" alt="image" src="AQUI_CAPTURA_HELM_REPO" />
+
 
 ---
 
@@ -128,7 +128,6 @@ Este stack instala automáticamente:
 * node-exporter
 * kube-state-metrics
 
-<img width="1400" height="400" alt="image" src="AQUI_CAPTURA_INSTALL" />
 
 ---
 
@@ -148,7 +147,6 @@ Running
 
 Todos los pods deben terminar en estado Running.
 
-<img width="1500" height="500" alt="image" src="AQUI_CAPTURA_PODS" />
 
 ---
 
