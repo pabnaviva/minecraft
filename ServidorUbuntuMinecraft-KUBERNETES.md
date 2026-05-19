@@ -258,7 +258,8 @@ K3s NodePort
 Minecraft :25565
 ```
 
-<img width="1400" height="700" alt="image" src="AQUI_TU_CAPTURA_ROUTER" />
+<img width="966" height="205" alt="Config Ruter" src="https://github.com/user-attachments/assets/c1769c7e-04d7-4b00-ae9d-af3aa957041b" />
+
 
 ---
 
