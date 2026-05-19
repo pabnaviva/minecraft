@@ -40,7 +40,8 @@ Comprobamos que se ha creado correctamente.
 sudo k3s kubectl get namespaces
 ```
 
-<img width="1200" height="400" alt="image" src="AQUI_CAPTURA_NAMESPACE" />
+<img width="792" height="207" alt="image" src="https://github.com/user-attachments/assets/f9519882-1727-4196-a94a-38800fd05d4a" />
+
 
 ---
 
