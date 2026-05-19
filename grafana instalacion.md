@@ -61,7 +61,8 @@ curl https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3 | bash
 helm version
 ```
 
-<img width="1200" height="300" alt="image" src="AQUI_CAPTURA_HELM" />
+<img width="1471" height="97" alt="image" src="https://github.com/user-attachments/assets/08df1137-6b61-4c0a-8b8a-5fae7b0e5f26" />
+
 
 ---
 
