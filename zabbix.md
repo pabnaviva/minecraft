@@ -74,12 +74,6 @@ Verificamos el correcto funcionamiento:
 sudo docker run hello-world
 ```
 
-### Captura recomendada
-
-📸 Docker funcionando correctamente.
-
----
-
 ## Instalación de Docker Compose
 
 Instalamos Docker Compose:
@@ -94,11 +88,7 @@ Comprobamos la instalación:
 docker-compose --version
 ```
 
-### Captura recomendada
 
-📸 Resultado de `docker-compose --version`
-
----
 
 ## Creación del entorno Zabbix
 
@@ -168,11 +158,8 @@ volumes:
   postgres_data:
 ```
 
-### Captura recomendada
+<img width="1919" height="994" alt="zabbix yml" src="https://github.com/user-attachments/assets/c5224563-d125-40e5-9ef9-4dc92594c6e2" />
 
-📸 Archivo `docker-compose.yml`
-
----
 
 ## Despliegue de Zabbix
 
@@ -209,12 +196,6 @@ Usuario: Admin
 Contraseña: zabbix
 ```
 
-### Captura recomendada
-
-📸 Pantalla principal de Zabbix.
-
----
-
 # Configuración del agente Zabbix
 
 ## Instalación del agente
@@ -242,6 +223,9 @@ Server=192.168.1.129
 ServerActive=192.168.1.129
 Hostname=ServidorMinecraft
 ```
+<img width="1911" height="1023" alt="zabbix server ip" src="https://github.com/user-attachments/assets/49dec6e5-7dac-4f5a-81ff-f6b624171a42" />
+<img width="1905" height="987" alt="zabbix hostname y ipactive" src="https://github.com/user-attachments/assets/abe0c3d1-c35a-4718-970c-3d5bb907779f" />
+
 
 Reiniciamos el servicio:
 
@@ -255,12 +239,6 @@ Comprobamos:
 ```bash
 sudo systemctl status zabbix-agent
 ```
-
-### Captura recomendada
-
-📸 Servicio Zabbix Agent activo.
-
----
 
 # Alta del host en Zabbix
 
@@ -298,11 +276,8 @@ Template:
 Linux by Zabbix agent
 ```
 
-### Captura recomendada
+<img width="1857" height="950" alt="zabix emparejamiento" src="https://github.com/user-attachments/assets/166e162b-6824-47f2-b1c3-0f500326c187" />
 
-📸 Configuración completa del host.
-
----
 
 # Verificación de conectividad
 
@@ -321,11 +296,8 @@ ZBX
 
 aparece en color verde.
 
-### Captura recomendada
+<img width="1690" height="615" alt="zabbix enable" src="https://github.com/user-attachments/assets/cc3ecb46-e7f1-41ae-bc06-fa89a88d0214" />
 
-📸 Host conectado correctamente.
-
----
 
 # Configuración de alertas
 
@@ -335,11 +307,8 @@ Las alertas seleccionadas para el proyecto fueron:
 * High memory utilization
 * High swap space usage
 
-### Captura recomendada
+<img width="1682" height="805" alt="Problemas zabbix mostrar" src="https://github.com/user-attachments/assets/85459879-5a12-4c7c-bd9b-6dc63b4a481c" />
 
-📸 Triggers configurados.
-
----
 
 # Configuración de correo electrónico
 
@@ -354,11 +323,10 @@ Configuramos Gmail como proveedor SMTP.
 
 Posteriormente asociamos la cuenta de correo al usuario administrador.
 
-### Captura recomendada
+<img width="745" height="542" alt="zabbix correo smtp" src="https://github.com/user-attachments/assets/06a8880e-6cb6-4627-b706-dc230cc4bc08" />
 
-📸 Configuración del Media Type Gmail.
 
----
+
 
 # Resultado final
 
